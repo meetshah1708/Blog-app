@@ -1,0 +1,9 @@
+.posts{
+     flex: 9;
+     float: left;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+

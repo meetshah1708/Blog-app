@@ -1,0 +1,52 @@
+.topbar {
+  width: 100%;
+  background-color: aqua;
+  height: 100px;
+  display: flex;
+  position: sticky;
+}
+.social {
+  margin-top: 30px;
+  font-size: 30px;
+  margin-left: 10px;
+
+}
+.socialicon {
+  padding: 10px;
+  cursor: pointer;
+}
+.header {
+  margin-top: 30px;
+  display: flex;
+  
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding-left: 3px;
+  font-size: 19px;
+  color: grey;
+  margin-top: 10px;
+  
+}
+.listitem {
+  padding-left: 20px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.search {
+  margin-top: 40px;
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  cursor: pointer;
+}
+.profile {
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  margin-top: 20px;
+  cursor: pointer;
+}

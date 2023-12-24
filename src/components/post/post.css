@@ -1,0 +1,23 @@
+.post {
+    width: 385px;
+    margin: 0px 25px 40px 25px;
+    display: flex;
+    flex-direction: column;
+    flex: 9;
+  }
+  .postDesc::first-letter{
+    font-weight: 900;
+    font-size: 30px;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .postCat{
+    padding-left: 10px;
+    cursor: pointer;
+  }
+  .postTitle{
+    padding-left: 10px;;
+  }
+  .postDate{
+    padding-left: 10px;
+  }
